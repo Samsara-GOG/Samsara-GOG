@@ -1,4 +1,4 @@
-# Samsara-GOG-
+# Samsara-GOG
 Jérôme Demuynck's Github. I'm a Fullstack Developer JavaScript/Node. Currently, I'm learning Angular Framework and Java language.
 
 <h1 align="center">Yo 👋, Je suis Jérôme Demuynck</h1>
