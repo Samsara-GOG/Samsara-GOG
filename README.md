@@ -24,17 +24,4 @@ Jérôme Demuynck's Github. I'm a Fullstack Developer JavaScript/Node. Currently
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsara-gog&show_icons=true&locale=en" alt="samsara-gog" /></p>
 
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-
-```yaml
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
-```
-
-
+<img src="https://github.com/Samsara-GOG/Samsara-GOG-/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
