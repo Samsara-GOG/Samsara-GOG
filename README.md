@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsara-gog" alt="samsara-gog" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **un projet d'application bancaire J2E**
+- 🔭 Je travaille actuellement sur **un projet d'application bancaire Java**
 
-- 🌱 J'étudie en ce moment les **Design Patterns, Spring Boot / Hibernate**
+- 🌱 J'étudie en ce moment : **Design Patterns, TDD, BDD, Refactoring**
 
 - 📫 Vous pouvez me contacter via **samsaraonaya@gmail.com**
 
