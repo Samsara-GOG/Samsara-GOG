@@ -1,11 +1,11 @@
 # Samsara-GOG
 
 <h1 align="center">Yo 👋, Je suis Jérôme Demuynck</h1>
-<h3 align="center">Un développeur Fullstack JavaScript passionné de France</h3>
+<h3 align="center">Un développeur Fullstack JavaScript de France</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsara-gog" alt="samsara-gog" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **un projet d'application bancaire Java**
+- 🔭 Je travaille actuellement sur **secret**
 
 - 🌱 J'étudie en ce moment : **Design Patterns, TDD, BDD, Refactoring**
 
