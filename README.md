@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsara-gog" alt="samsara-gog" /></a> </p>
 
-- 🔭 Je travaille actuellement sur **secret**
+- 🔭 Je travaille actuellement sur un projet C/Assembleur
 
 - 🌱 J'étudie en ce moment : **Design Patterns, TDD, BDD, Refactoring**
 
